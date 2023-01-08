@@ -15,6 +15,4 @@ echo.
 echo Now just press any key and wait for the Oculus client to start up and relink your quest 2
 pause
 start "" "C:\Program Files\Oculus\Support\oculus-client\OculusClient.exe"
-echo.
-echo ANY LOGS BELOW ARE FROM THE OCULUS CLIENT STARTING UP (THE SCRIPT IS GOING TO EXIT AUTOMATICALLY)
 exit
