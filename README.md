@@ -7,4 +7,4 @@ Run the batch script as admin
 Enjoy
 
 ### Extra info
-The oculus-platform-runtime.exe may not always be running
+The oculus-platform-runtime.exe may not always be running (just ignore it)
