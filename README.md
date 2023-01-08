@@ -2,7 +2,7 @@
 This is a hotfix to the right eye blur/stretching issue with oculus quest 2 airlink
 
 ## Usage
-Save the [script](https://raw.githubusercontent.com/Duchy12/quest-2-right-eye-blur-fix/main/FixBlur.bat) as a batch file (remove the .txt extension)
+Get the script form the [releases](https://github.com/Duchy12/quest-2-right-eye-blur-fix/releases/tag/release)
 Run the batch script as admin
 Enjoy
 
