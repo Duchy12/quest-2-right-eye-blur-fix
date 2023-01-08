@@ -12,8 +12,9 @@ echo Oculus appdata folder path: C:\Users\%username%\AppData\Roaming\Oculus
 echo Deleting oculus appdata folder...
 rmdir /s /q C:\Users\%username%\AppData\Roaming\Oculus§
 echo. 
-echo Done! You can now relogin and relink your quest 2
-start "" "C:\Program Files\Oculus\Support\oculus-client\OculusClient.exe" > null
+echo Now just press any key and wait for the Oculus client to start up and relink your quest 2
+pause
+start "" "C:\Program Files\Oculus\Support\oculus-client\OculusClient.exe"
 echo.
 echo ANY LOGS BELOW ARE FROM THE OCULUS CLIENT STARTING UP (THE SCRIPT IS GOING TO EXIT AUTOMATICALLY)
 exit
