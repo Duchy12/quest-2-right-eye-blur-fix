@@ -10,7 +10,7 @@ taskkill /f /im OVRServiceLauncher.exe
 echo.
 echo Oculus appdata folder path: C:\Users\%username%\AppData\Roaming\Oculus
 echo Deleting oculus appdata folder...
-rmdir /s /q C:\Users\%username%\AppData\Roaming\Oculus§
+rmdir /s /q C:\Users\%username%\AppData\Roaming\Oculus
 echo. 
 echo Now just press any key and wait for the Oculus client to start up and relink your quest 2
 pause
